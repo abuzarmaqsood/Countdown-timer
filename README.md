@@ -1,2 +1,2 @@
 # Countdown-timer Project
-My first WebD project
+This website shows a countdown timer for you in a interactive way.
